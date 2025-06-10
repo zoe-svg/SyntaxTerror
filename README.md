@@ -1,0 +1,2 @@
+# SyntaxTerror
+Homebrew discord bot
